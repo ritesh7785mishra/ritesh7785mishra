@@ -43,7 +43,9 @@ Throughout the [Scrimba front-end developer career path](https://scrimba.com/lea
 * [Front-End Career Path](https://scrimba.com/certificate/u9K2v6tG/gfrontend)
 
 ## Portfolio:
-👉Feel free to check out my [personal website](#)
+👉Feel free to check out my [personal website](#)(In Progress)
+&
+📩Dont't hesitate to contact me!
 
 <!---
 ritesh7785mishra/ritesh7785mishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
