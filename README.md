@@ -1,6 +1,6 @@
- # Hi, I'm @Ritesh
- ## Journey:
-  📚I have a passion for tech as well as the arts. I am a Political Science student who transitioned to web development. Learned Front-End React Development from a Sweden-based online school, Scrimba and am now versed with state-craft as well as the craft of developing websites. My passion lies in learning and adapting to new technologies and being able to use them in writing clean, efficient and reusable code. Interested in collaborating with teams valuing clean and quality code principles.
+ # Hi, I'm @Ritesh Mishra
+ ## About:
+  📚I am a Front-End React developer with the ability to write clean, reusable and efficient code. Dedicated to learning new technologies in development and around it. Learned front-end development from Sweden-based coding school, [Scrimba](https://scrimba.com/dashboard#overview) where the focus lies on hands-on experience of programming. Have experience in building responsive web designs with the ability to implement UI/UX with a granularity of detail.
  ## Interests:
   👀 I'm intrested in coding, music, state politics, badminton and Guitar  
  ## Learning:
@@ -14,28 +14,36 @@
 <summary>My Scrimba Projects</summary>
 
 Throughout the [Scrimba front-end developer career path](https://scrimba.com/learn/frontend) you are encouraged to do multiple challenges and projects which enhances your learning about the tech and give you a hand on experience.
-* Project 1
-* Project 2
-
+ 
+ * [Responsive WebDesign Page Js](https://github.com/ritesh7785mishra/Responsive-WebDesign-Page-master.github.io.git)
+ * [Portfolio-JS](https://github.com/ritesh7785mishra/Portfolio-JS.git)
+ * [Bored-Bot](https://github.com/ritesh7785mishra/Bored-Bot-master.github.io.git)
+* [PersonalDashboard JS](https://github.com/ritesh7785mishra/personal-dashboard-js.github.io.git)
+* [TravelJournal React](https://github.com/ritesh7785mishra/travel-journal-react.git)
+* [TenziesGame React](https://github.com/ritesh7785mishra/tenzies-game-react.git)
+* [MemeGenerator React](https://github.com/ritesh7785mishra/meme-generator-react.git)
+ * [AirBnbClone React](https://github.com/ritesh7785mishra/air-bnb-react.git)
+ * [TypingGame React](https://github.com/ritesh7785mishra/typing-game-react.git)
+ * [PicSome React](https://github.com/ritesh7785mishra/pic-some.github.io.git)
 
 </details>
 <details>
 <summary>Solo Projects</summary>
-
-In the  [Scrimba front-end developer career path](https://scrimba.com/learn/frontend) you are given with some project which are solo in nature ie. no guidance will be provided and one have to make the project from scratch to end with all functionality achieved.
-<li>
-  <ol>Project 1</ol>
-  <ol>Project 2</ol>
-</li>
+* [TravelJournal React](https://github.com/ritesh7785mishra/travel-journal-react.git)
 
 </details>
 <details>
 <summary>Projects built with ReactJs Library</summary>
-
-In the  [Scrimba front-end developer career path](https://scrimba.com/learn/frontend) you are given with some project which are solo in nature ie. no guidance will be provided and one have to make the project from scratch to end with all functionality achieved.
+* [Amazon-Clone](https://github.com/ritesh7785mishra/amazonclone-react.git)
+ 
 
 </details>
 
+## Certificates
+* [Front-End Career Path](https://scrimba.com/certificate/u9K2v6tG/gfrontend)
+
+## Portfolio:
+👉Feel free to check out my [personal website](#)
 
 <!---
 ritesh7785mishra/ritesh7785mishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
