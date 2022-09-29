@@ -29,8 +29,11 @@ Throughout the [Scrimba front-end developer career path](https://scrimba.com/lea
 </details>
 <details>
 <summary>Solo Projects</summary>
-* [TravelJournal React](https://github.com/ritesh7785mishra/travel-journal-react.git)
 
+These are the projects which I made solo without any guidance or help. All on my own.
+
+* [TravelJournal React](https://github.com/ritesh7785mishra/travel-journal-react.git)
+* [InterativeCardPayment Page](https://github.com/ritesh7785mishra/interactive-card-details-form-main.github.io)[:View Deployment](https://6333de13a8a8cb39f9822008--incomparable-cobbler-824479.netlify.app/)
 </details>
 <details>
 <summary>Projects built with ReactJs Library</summary>
