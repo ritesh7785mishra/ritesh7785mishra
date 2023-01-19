@@ -46,7 +46,7 @@ These are the projects which I made solo without any guidance or help. All on my
 * [Front-End Career Path](https://scrimba.com/certificate/u9K2v6tG/gfrontend)
 
 ## Portfolio:
-👉Feel free to check out my [personal website](#)(In Progress) <br/>
+👉Feel free to check out my [Portfolio](https://riteshmishra-portfolio.netlify.app/)<br/>
 & <br/>
 📩Dont't hesitate to contact me! 
 
